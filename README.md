@@ -1,3 +1,12 @@
-I have made this website using HTML/CSS/JavaScript.
-This website fetches the real time news from news API.
-We can search any topic for latest news.
+This is a news website that uses API to fetch real time news. 
+It has been developed using using
+-HTML
+-CSS
+-JavaScript
+-NewsAPI
+
+Features and Working:
+-Search box
+-Simple loader
+-Real time news
+-Can't search empty field
