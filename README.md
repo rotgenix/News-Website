@@ -14,7 +14,7 @@ This is fully responsive for all the devices
 Some small but useful Features:
 
 1. A alert box will pop up if we try to search empty
-2. A alert box will pop up if we search any random word like- jdhfkasjdfhskd this.
+2. A alert box will pop up if we search any random word like- "jdhfkasjdfhskd" this.
 
 ## Screenshots
 
